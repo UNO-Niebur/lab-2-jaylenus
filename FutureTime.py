@@ -24,6 +24,5 @@ def main():
 
   print(f"The future time is {futureHours:02}:{futureMinutes:02}")
 
-
 if __name__ == '__main__':
   main()
